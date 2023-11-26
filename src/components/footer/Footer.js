@@ -22,7 +22,7 @@ export default function Footer() {
                             <li className="social__item"><a href="#!"><img src={linkedIn} alt="Link" /></a></li>
                         </ul>
                         <div className="copyright">
-                            <p>© 2022 frontend-dev.com</p>
+                            <p>© 2023 Mc2002@mail.com</p>
                         </div>
                     </div>
                 </div>
